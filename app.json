@@ -1,4 +1,5 @@
 {
   "name": "new",
-  "repository": "https://github.com/yashsonani/new"
+  "repository": "https://github.com/yashsonani/new",
+  "buildpack" : "heroku/php"
 }
